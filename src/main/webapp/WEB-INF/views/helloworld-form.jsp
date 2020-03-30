@@ -8,7 +8,7 @@
         <title>Form Demo</title>
     </head>
     <body>
-        <form action="processForm" method="post">
+        <form action="processFormV2" method="post">
             <input type="text" name="name" placeholder="What's your name?"><br>
             <input type="submit" value="Submit">
         </form>
